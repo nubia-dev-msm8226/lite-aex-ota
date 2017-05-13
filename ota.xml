@@ -10,13 +10,13 @@
  Версия прошивки для ota, в новой версии ставить версию больше 20160203 
 -->
 <DirectUrl>
-ro.ota.manifest=https://www.dropbox.com/s/ggejuy7hfn54ivq/G_OTA_Lite_AospExtended-v4.2-kenzo-20170513-1407-UNOFFICIAL.zip?dl=0
+ro.ota.manifest=https://www.dropbox.com/s/ggejuy7hfn54ivq/G_OTA_Lite_AospExtended-v4.2-kenzo-20170513-1407-UNOFFICIAL.zip?dl=1
 </DirectUrl>
 <!--
  Прямая ссылка на файл, для скачивания, лучше использовать прямую 
 -->
 <HttpUrl>
-ro.ota.manifest=https://www.dropbox.com/s/ggejuy7hfn54ivq/G_OTA_Lite_AospExtended-v4.2-kenzo-20170513-1407-UNOFFICIAL.zip?dl=0
+ro.ota.manifest=https://www.dropbox.com/s/ggejuy7hfn54ivq/G_OTA_Lite_AospExtended-v4.2-kenzo-20170513-1407-UNOFFICIAL.zip?dl=1
 </HttpUrl>
 <!--
  Ссылка на файл, для скачивания через браузер, лучше использовать прямую 
