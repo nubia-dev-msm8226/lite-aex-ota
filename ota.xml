@@ -5,7 +5,7 @@
 <!--
  Версия прошивки и её название при скачивании, без пробелов 
 -->
-<VersionNumber type="integer">20170514</VersionNumber>
+<VersionNumber type="integer">20170513</VersionNumber>
 <!--
  Версия прошивки для ota, в новой версии ставить версию больше 20160203 
 -->
