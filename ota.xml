@@ -1,7 +1,7 @@
 <ROM>
 <RomName>Lite mod AEX</RomName>
 <!--  Название прошивки  -->
-<VersionName>4.2 AEX Lite от 14.05.17</VersionName>
+<VersionName>4.2 AEX Lite от 13.05.17</VersionName>
 <!--
  Версия прошивки и её название при скачивании, без пробелов 
 -->
@@ -10,13 +10,13 @@
  Версия прошивки для ota, в новой версии ставить версию больше 20160203 
 -->
 <DirectUrl>
-ro.ota.manifest=https://dl.dropbox.com/s/g0sgdp4y23w79fl/G_Lite_AospExtended-v4.2-kenzo-20170513-1812-UNOFFICIAL.zip
+ro.ota.manifest=https://dl.dropbox.com/s/ggejuy7hfn54ivq/G_OTA_Lite_AospExtended-v4.2-kenzo-20170513-1407-UNOFFICIAL.zip
 </DirectUrl>
 <!--
  Прямая ссылка на файл, для скачивания, лучше использовать прямую 
 -->
 <HttpUrl>
-ro.ota.manifest=https://dl.dropbox.com/s/g0sgdp4y23w79fl/G_Lite_AospExtended-v4.2-kenzo-20170513-1812-UNOFFICIAL.zip
+ro.ota.manifest=https://dl.dropbox.com/s/ggejuy7hfn54ivq/G_OTA_Lite_AospExtended-v4.2-kenzo-20170513-1407-UNOFFICIAL.zip
 </HttpUrl>
 <!--
  Ссылка на файл, для скачивания через браузер, лучше использовать прямую 
