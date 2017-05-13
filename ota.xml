@@ -25,11 +25,11 @@ https://www.dropbox.com/s/ggejuy7hfn54ivq/G_OTA_Lite_AospExtended-v4.2-kenzo-201
 <!--
  Версия android, смотреть в buld.prop или настройках прошивки 
 -->
-<CheckMD5>-</CheckMD5>
+<CheckMD5>7kfdg5654654f6d54f</CheckMD5>
 <!--
  Контрольный md5 размер файла, для сравнения, полноценности скачаного файла 
 -->
-<FileSize type="integer">-</FileSize>
+<FileSize type="integer">6546548654654654</FileSize>
 <!--  Размер скачиваемого файла, в байтах  -->
 <Developer>O_dinochka</Developer>
 <!--  Ник, имя разработчика'ов  -->
