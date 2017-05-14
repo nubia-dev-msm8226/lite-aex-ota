@@ -3,8 +3,8 @@
   <RomName>Lite_Mod_AEX</RomName> <!-- Название прошивки -->
   <VersionName>AEX_4.2.140517</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170515</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://dl.dropbox.com/s/zk7cygj5tmc8xnf/New_Lite_AospExtended-v4.2-kenzo-20170514-2158-UNOFFICIAL.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://dl.dropbox.com/s/zk7cygj5tmc8xnf/New_Lite_AospExtended-v4.2-kenzo-20170514-2158-UNOFFICIAL.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/KuTsj2tE3J88G3</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/KuTsj2tE3J88G3</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>B9348A979F5D6F495D2BC9442F81B1F7</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">420357735</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
