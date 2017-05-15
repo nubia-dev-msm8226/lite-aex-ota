@@ -20,13 +20,19 @@
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
   <Changelog>
     ** lite version 1.0.0
+  *  Скомпилен официальный Ota Updater PRO
     
-  *  Обновлен перевод  
+  *  Обновлен перевод 
+  
+  *  Вернул ОФФ анимацию (временно)
+    
+  *  DPI экрана сменил с 480 на 410 
+    
+  *  Изменил иконку FMradio
     
   *  Сборка системы от 15.05.2017
     
-  *  Скомпилен официальный Ota Updater PRO
-         
+          
     **  lite version 0.9.9 
     
   * Изменение ОТА-апдейтера
