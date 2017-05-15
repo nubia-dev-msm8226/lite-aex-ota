@@ -40,24 +40,4 @@
             <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
         </addon>         
     </addons>
-    <addons>
-        <addon>
-            <id>5</id>
-            <name>Pather-MicroG</name>
-            <description>Pather system</description>
-            <published-at>2017-05-01</published-at>
-            <size>5476606</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/MicroG-Patcher/NanoMod-Patcher-.01.05.17.zip</download-link>
-        </addon>         
-    </addons>
-     <addons>
-        <addon>
-            <id>6</id>
-            <name>MicroG</name>
-            <description>MicroG mod</description>
-            <published-at>2017-05-01</published-at>
-            <size>14 377 866</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/MicroG/NanoMod-MicroG-.01.05.17.zip</download-link>
-        </addon>         
-    </addons>
 </hash>
