@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id>
+            <name>Root User</name>
+            <description>Root manager</description>
+            <published-at>2017-03-20</published-at>
+            <size>4779378</size>
+            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+            <id>2</id>
+            <name>Magisk Uninstaller</name>
+            <description>Use ROM without root</description>
+            <published-at>2017-03-20</published-at>
+            <size>4779378</size>
+            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+        </addon>
+    </addons>
+</hash>
