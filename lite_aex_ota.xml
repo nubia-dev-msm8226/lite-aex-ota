@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName>lite-AOSPExtended-Rom</RomName>
-  <VersionName>![CDATA[ Validus-primel-7.1.2.RC ]]</VersionName>
+  <RomName>AOSPExtended</RomName>
+  <VersionName>Lite</VersionName>
   <VersionNumber type="integer">20170518</VersionNumber>
   <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/14.05.17-3/Lite_AospExtended-v4.2-kenzo-20170514-2315-UNOFFICIAL.zip</DirectUrl>
   <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/14.05.17-3/Lite_AospExtended-v4.2-kenzo-20170514-2315-UNOFFICIAL.zip</HttpUrl>
