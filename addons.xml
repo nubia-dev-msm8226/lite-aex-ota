@@ -3,21 +3,32 @@
     <addons>
         <addon>
             <id>1</id>
-            <name>Root User</name>
+            <name>SuperSU</name>
             <description>Root manager</description>
-            <published-at>2017-03-20</published-at>
-            <size>4779378</size>
-            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+            <published-at>AEX_version</published-at>
+            <size>5446811</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/SuperSU/supersu.zip</download-link>
+        </addon>         
+    </addons>
+      <addons>
+        <addon>
+            <id>2</id>
+            <name>Magisk12.0</name>
+            <description>MagiskMod</description>
+            <published-at>2017-04-04</published-at>
+            <size>3448152</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/Magisk12/Magisk-12.0.zip</download-link>
         </addon>         
     </addons>
      <addons>
         <addon>
-            <id>2</id>
-            <name>Magisk</name>
+            <id>3</id>
+            <name>Magisk-uninstaller</name>
             <description>Magisk</description>
             <published-at>2017-03-20</published-at>
             <size>4779378</size>
             <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
         </addon>         
     </addons>
+   
 </hash>
