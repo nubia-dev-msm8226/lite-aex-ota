@@ -32,7 +32,7 @@
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 
+  <Changelog>###Changelog 
 **  Обновление Lite 1.0.0
     
 * Скомпилировал  ОТА-апдейтер PRO
