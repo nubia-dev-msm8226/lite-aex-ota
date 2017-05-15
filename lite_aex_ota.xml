@@ -12,7 +12,7 @@
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
   <Changelog>
-  ** lite version 1.0.0
+    ** lite version 1.0.0
     
   *  Сборка системы от 15.05.2017
     
@@ -20,5 +20,36 @@
     
   *  Из сборки убран SuperSU
     
-  </Changelog>
+    **  lite version 0.9.9 
+    
+  * Изменение ОТА-апдейтера
+    
+  * Вырезал браузера Jelly
+    
+  * Вернул изображения в заголовок
+    
+  * Вернул браузер Via    
+    
+  * Вернул FM радио (работает без наушников)
+    
+  * Вырезал EX Kernel Manager   
+    
+  * Вшил Kernek Adiutor MOD (подправил его)
+    
+  * Другие незначительные изменения 
+    
+    **  lite version 0.9.8   
+    
+  * Заменил приложение контактов
+    
+  * Обновил приложение ОТА
+    
+  * Лайт мод собран на основе свежей сборки от 14.05.17
+    
+  * Добавил новый загрузочный экран
+    
+  * Заменена дефолтная обоина
+    
+  * Улучшен звук
+     </Changelog>
 </ROM>
