@@ -8,12 +8,16 @@
             <published-at>2017-03-20</published-at>
             <size>4779378</size>
             <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+        </addon>         
+    </addons>
+     <addons>
+        <addon>
             <id>2</id>
-            <name>Magisk Uninstaller</name>
-            <description>Use ROM without root</description>
+            <name>Magisk</name>
+            <description>Magisk</description>
             <published-at>2017-03-20</published-at>
             <size>4779378</size>
             <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
-        </addon>
+        </addon>         
     </addons>
 </hash>
