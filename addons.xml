@@ -10,9 +10,19 @@
             <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/SuperSU/supersu.zip</download-link>
         </addon>         
     </addons>
-      <addons>
+     <addons>
         <addon>
             <id>2</id>
+            <name>SuperSU-uninstaller</name>
+            <description>UNRoot manager</description>
+            <published-at>AEX_version</published-at>
+            <size>4855</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/SU-uninstaller/UPDATE-unSU-signed.zip</download-link>
+        </addon>         
+    </addons>
+      <addons>
+        <addon>
+            <id>3</id>
             <name>Magisk12.0</name>
             <description>MagiskMod</description>
             <published-at>2017-04-04</published-at>
@@ -22,7 +32,7 @@
     </addons>
      <addons>
         <addon>
-            <id>3</id>
+            <id>4</id>
             <name>Magisk-uninstaller</name>
             <description>Magisk</description>
             <published-at>2017-03-20</published-at>
