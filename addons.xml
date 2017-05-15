@@ -70,14 +70,5 @@
             <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/Radon3.8/Radon-V3.8-Kenzo-Cm-Ng.zip</download-link>
         </addon>         
     </addons>
-     <addons>
-        <addon>
-            <id>8</id>
-            <name>Radon4.5</name>
-            <description>Kenzo-Cm-Ng</description>
-            <published-at>2017-04-27</published-at>
-            <size>20730131</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/Radon4.5/Radon-V4.5-Kenzo-Cm-Ng.zip</download-link>
-        </addon>         
-    </addons>
+
 </hash>
