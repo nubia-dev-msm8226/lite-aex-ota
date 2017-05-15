@@ -13,8 +13,12 @@
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
   <Changelog>
   ** lite version 1.0.0
+    
   *  Сборка системы от 15.05.2017
+    
   *  Скомпилен официальный Ota Updater PRO
+    
   *  Из сборки убран SuperSU
+    
   </Changelog>
 </ROM>
