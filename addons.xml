@@ -60,15 +60,4 @@
             <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/MicroG/NanoMod-MicroG-.01.05.17.zip</download-link>
         </addon>         
     </addons>
-     <addons>
-        <addon>
-            <id>7</id>
-            <name>Radon3.8</name>
-            <description>Kenzo-Cm-Ng</description>
-            <published-at>2017-03-01</published-at>
-            <size>20753874</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/Radon3.8/Radon-V3.8-Kenzo-Cm-Ng.zip</download-link>
-        </addon>         
-    </addons>
-
 </hash>
