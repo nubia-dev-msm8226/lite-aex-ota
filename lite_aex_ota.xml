@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <!-- Your ROM Name -->
-  <RomName>AOSPExtended</RomName>
-  <VersionName>Lite</VersionName>
-  <VersionNumber type="integer">20170518</VersionNumber>
+  <RomName>AOSPExtended_4.2</RomName>
+  <VersionName>lite_mod_1.0.0</VersionName>
+  <VersionNumber type="integer">20170517</VersionNumber>
   <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/14.05.17-3/Lite_AospExtended-v4.2-kenzo-20170514-2315-UNOFFICIAL.zip</DirectUrl>
   <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/14.05.17-3/Lite_AospExtended-v4.2-kenzo-20170514-2315-UNOFFICIAL.zip</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>MD5HERE</CheckMD5>
+  <CheckMD5>354654</CheckMD5>
   <FileSize type="integer">420147739</FileSize>
   <Developer>O_dinochka</Developer>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
-  <Changelog></Changelog>
+  <Changelog>
+  ** lite version 1.0.0
+  *  Сборка системы от 15.05.2017
+  *  Скомпилен официальный Ota Updater PRO
+  *  Из сборки убран SuperSU
+  </Changelog>
 </ROM>
