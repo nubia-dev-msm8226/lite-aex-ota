@@ -1,43 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName>NAME OF THE ROM</RomName>
-  <VersionName>ROM VERSION</VersionName>
+  <RomName>lite-AOSPExtended-Rom</RomName>
+  <VersionName>4.2-Lite-1.0.0</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20150105</VersionNumber>
+  <VersionNumber type="integer">20170518</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>DIRECT LINKS HERE</DirectUrl>
-  <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
+  <DirectUrl>http://4pda.ru/forum/index.php?showuser=3298739</DirectUrl>
+  <HttpUrl>http://4pda.ru/forum/index.php?showuser=3298739</HttpUrl>
   <!-- What version are you issuing? -->
-  <Android>5.0.1</Android>
-  <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
-  <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
+  <Android>7.1.2</Android>
   <CheckMD5>MD5 HERE</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
   <FileSize type="integer">420147739</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>DEVELOPER NAMES HERE</Developer>
+  <Developer>O_dinochka</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL>WEBSITE LINK HERE</WebsiteURL>
+  <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>DONATE URL HERE</DonateURL>
+  <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 20150105
-* Stuff
-* Updated this, or that
-* Fixed all the things
-* We even fixed this
-* Don't forget all the awesome features you added</Changelog>
+  <Changelog>### Changelog 
+**  Обновление Lite 1.0.0
+    
+* Скомпилировал  ОТА-апдейтер PRO
+    
+* Сборка прошивки от 15.05.17
+    
+* Новая иконка радио    
+    
+**  Обновление от 14.05.17-19:29 
+    
+* Изменение ОТА-апдейтера
+    
+* Вырезал браузера Jelly
+    
+* Вернул изображения в заголовок
+    
+* Вернул браузер Via    
+    
+* Вернул FM радио (работает без наушников)
+    
+* Вырезал EX Kernel Manager   
+    
+* Вшил Kernek Adiutor MOD (подправил его)
+    
+* Другие незначительные изменения 
+    
+**  Обновление от 14.05.17-09:30   
+    
+* Заменил приложение контактов
+    
+* Обновил приложение ОТА
+    
+* Лайт мод собран на основе свежей сборки от 14.05.17
+    
+* Добавил новый загрузочный экран
+* Заменена дефолтная обоина
+* Улучшен звук</Changelog>
 </ROM>
