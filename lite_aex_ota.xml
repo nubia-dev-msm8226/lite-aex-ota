@@ -3,8 +3,8 @@
   <RomName>AOSPExtended_4.2</RomName>
   <VersionName>lite_aex_mod_1.0.1</VersionName>
   <VersionNumber type="integer">20170517</VersionNumber>
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</HttpUrl>
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17-2/lite_mod_1.0.1.zip</DirectUrl>
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17-2/lite_mod_1.0.1.zip</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>354654</CheckMD5>
   <FileSize type="integer">420147739</FileSize>
