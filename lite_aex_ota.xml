@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_mod_1.0.0</VersionName>
+  <VersionName>lite_aex_mod_1.0.1</VersionName>
   <VersionNumber type="integer">20170517</VersionNumber>
   <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</DirectUrl>
   <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</HttpUrl>
@@ -19,6 +19,18 @@
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
   <Changelog>
+     ** lite version 1.0.1
+    
+  *  Фикс раздачи интернета Yota
+     
+  *  Обновил gps.conf
+    
+  *  Заменил виджет календаря 
+    
+  *  Перевел Omni Jaws (погода)
+    
+  *  Обновил Kernel Auditor
+    
     ** lite version 1.0.0
     
   *  Скомпилен Ota Updater PRO
