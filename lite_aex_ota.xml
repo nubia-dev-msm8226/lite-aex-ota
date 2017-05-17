@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_aex_mod_1.0.1</VersionName>
-  <VersionNumber type="integer">20170517</VersionNumber>
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17-2/lite_mod_1.0.1.zip</DirectUrl>
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17-2/lite_mod_1.0.1.zip</HttpUrl>
+  <VersionName>lite_aex_mod_1.0.2</VersionName>
+  <VersionNumber type="integer">20170518</VersionNumber>
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/17.05.17/3AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/17.05.17/3AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>354654</CheckMD5>
-  <FileSize type="integer">420147739</FileSize>
+  <CheckMD5>ECF7A1CD8C2E910E06215C33D030CC39</CheckMD5>
+  <FileSize type="integer">424341037</FileSize>
   <Developer>O_dinochka</Developer>
   <AddonCount>1</AddonCount>
   <AddonCount>2</AddonCount>
    <AddonCount>3</AddonCount>
    <AddonCount>4</AddonCount>
-   <AddonCount>5</AddonCount>
-   <AddonCount>6</AddonCount>
    <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
   <Changelog>
+     ** lite version 1.0.2
+    
+  *  Сборка от 17.05.17
+     
+  *  Googix из коробки работает 
+     
+  *  Вернул стоковый Диалер
+    
+  *  Вернул стоковый Справочник
+    
      ** lite version 1.0.1
     
   *  Фикс раздачи интернета Yota
