@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_aex_mod_1.0.2</VersionName>
-  <VersionNumber type="integer">20170517</VersionNumber>
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/18.07.15/4AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/18.07.15/4AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</HttpUrl>
+  <VersionName>lite_aex_mod_1.0.3</VersionName>
+  <VersionNumber type="integer">20170518</VersionNumber>
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/18.07.15-2/7AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/18.07.15-2/7AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>0A1526B42B1BAE2D083FF42976060DFE</CheckMD5>
-  <FileSize type="integer">418591136</FileSize>
+  <CheckMD5>BD0834F76EC6BD124141093CD7C20BCE</CheckMD5>
+  <FileSize type="integer">422264073</FileSize>
   <Developer>O_dinochka</Developer>
   <AddonCount>1</AddonCount>
   <AddonCount>2</AddonCount>
@@ -16,7 +16,26 @@
    <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
-  <Changelog>
+  <Changelog>** lite version 1.0.3
+    
+  *  Перевел приложение "Радио"
+    
+  *  Перевод новых строк настроек
+    
+  *  Улучшение сигнала Wi-Fi
+    
+  *  Новая галерея из DU  
+    
+  *  Заменена клавиатура
+    
+  *  Обновил приложение "Часы"
+    
+  *  Вернул камеру "Snap"
+    
+  *  new def wallp
+       
+  *  Починил краш редактора изображений 
+       
      ** lite version 1.0.2
     
   *  Сборка от 17.05.17
