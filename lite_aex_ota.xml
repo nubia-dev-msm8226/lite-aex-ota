@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_aex_mod_1.0.4</VersionName>
+  <VersionName>lite_aex_mod_1.0.4-1</VersionName>
   <VersionNumber type="integer">20170519</VersionNumber>
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.15/Lite1.0.4.zip</DirectUrl>
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.15/Lite1.0.4.zip</HttpUrl>
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.151/Lite1.0.4.1.zip</DirectUrl>
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.151/Lite1.0.4.1.zip</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>BD0834F76EC6BD124141093CD7C20BCE</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
