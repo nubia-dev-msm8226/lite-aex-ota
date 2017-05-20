@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_aex_mod_1.0.3</VersionName>
+  <VersionName>lite_aex_mod_1.0.4</VersionName>
   <VersionNumber type="integer">20170518</VersionNumber>
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/18.07.15-2/7AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/18.07.15-2/7AospExtended-v4.2-kenzo-20170517-1434-UNOFFICIAL.zip</HttpUrl>
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.15/Lite1.0.4.zip</DirectUrl>
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.15/Lite1.0.4.zip</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>BD0834F76EC6BD124141093CD7C20BCE</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
@@ -16,7 +16,29 @@
    <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
-  <Changelog>** lite version 1.0.3
+  <Changelog>** lite version 1.0.4
+    
+  *  Сборка AEX от 19.05.17
+    
+  *  Убрал SuperSU
+    
+  *  Перевод новых строк настроек
+       
+  *  Новая галерея из DU  
+    
+  *  Заменена клавиатура
+    
+  *  Обновил приложение "Часы"
+    
+  *  Новый музыкальный плеер
+    
+  *  new def wallp
+       
+  *  Починил краш редактора изображений 
+    
+  *  Вшил Субстратум 
+    
+    ** lite version 1.0.3
     
   *  Перевел приложение "Радио"
     
