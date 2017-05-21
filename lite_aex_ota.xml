@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_aex_mod_1.0.4-1</VersionName>
-  <VersionNumber type="integer">20170519</VersionNumber>
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.151/Lite1.0.4.1.zip</DirectUrl>
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/19.07.151/Lite1.0.4.1.zip</HttpUrl>
+  <VersionName>lite_aex_mod_1.0.5</VersionName>
+  <VersionNumber type="integer">20170521</VersionNumber>
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/21.05.17/1.0.5.zip</DirectUrl>
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/21.05.17/1.0.5.zip</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>BD0834F76EC6BD124141093CD7C20BCE</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
@@ -16,7 +16,21 @@
    <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
-  <Changelog>** lite version 1.0.4
+  <Changelog>** lite version 1.0.5
+    
+  *  Сборка AEX от 21.05.17
+    
+  *  Убрал Substratum
+    
+  *  Перевод новых строк настроек
+       
+  *  Правка build.prop  
+    
+  *  Клавиатура Gboard
+    
+  *  Новый заголовок
+      
+    ** lite version 1.0.4
     
   *  Сборка AEX от 19.05.17
     
