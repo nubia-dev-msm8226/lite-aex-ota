@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_aex_mod_1.0.5</VersionName>
+  <VersionName>lite_aex_mod_1.0.5-1</VersionName>
   <VersionNumber type="integer">20170525</VersionNumber>
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/21.05.17/1.0.5.zip</DirectUrl>
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/21.05.17/1.0.5.zip</HttpUrl>
+  <DirectUrl>http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</DirectUrl>
+  <HttpUrl>http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>BD0834F76EC6BD124141093CD7C20BCE</CheckMD5>
+  <CheckMD5>C8B71983CEFAE931CC8309DE7BF30B8C</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
   <Developer>O_dinochka</Developer>
   <AddonCount>1</AddonCount>
@@ -20,7 +20,15 @@
   <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
-  <Changelog>** lite version 1.0.5
+  <Changelog>** lite version 1.0.5-1
+  
+  *  Ота переехала на сервер
+  
+  *  Ота починена
+  
+  *  Ота приложение - доперевод
+   
+  ** lite version 1.0.5
     
   *  Сборка AEX от 21.05.17
     
