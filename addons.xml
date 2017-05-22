@@ -3,11 +3,11 @@
     <addons>
         <addon>
             <id>1</id>
-            <name>SuperSU</name>
-            <description>Root manager</description>
-            <published-at>AEX_version</published-at>
-            <size>5446811</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/SuperSU/supersu.zip</download-link>
+            <name>Radon-4.7</name>
+            <description>Custom_kernel</description>
+            <published-at>20170520</published-at>
+            <size>11751702</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/1modAPP/Radon-V4.7-Kenzo-Cm-Ng.zip</download-link>
         </addon>         
     </addons>
      <addons>
