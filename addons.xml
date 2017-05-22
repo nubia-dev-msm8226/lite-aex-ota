@@ -13,31 +13,31 @@
      <addons>
         <addon>
             <id>2</id>
-            <name>SuperSU-uninstaller</name>
-            <description>UNRoot manager</description>
-            <published-at>AEX_version</published-at>
-            <size>4855</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/SU-uninstaller/UPDATE-unSU-signed.zip</download-link>
+            <name>Substratum</name>
+            <description>Theme manager</description>
+            <published-at>v730</published-at>
+            <size>10917194</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/2modAPP/SubstratumThemeManager.apk</download-link>
         </addon>         
     </addons>
       <addons>
         <addon>
             <id>3</id>
-            <name>Magisk12.0</name>
-            <description>MagiskMod</description>
-            <published-at>2017-04-04</published-at>
-            <size>3448152</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/Magisk12/Magisk-12.0.zip</download-link>
+            <name>SuperSU</name>
+            <description>Root manager</description>
+            <published-at>lite_size</published-at>
+            <size>5446811</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/3modAPP/LITEsupersu.zip</download-link>
         </addon>         
     </addons>
      <addons>
         <addon>
             <id>4</id>
-            <name>Magisk-uninstaller</name>
-            <description>Magisk</description>
-            <published-at>2017-03-20</published-at>
-            <size>4779378</size>
-            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+            <name>TWRP3.1.1.0</name>
+            <description>Custom recoveryk</description>
+            <published-at>2017-05-20</published-at>
+            <size>18982912</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/4modAPP/TWRP_3.1.1_kenzo_7.1.img</download-link>
         </addon>         
     </addons>
 </hash>
