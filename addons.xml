@@ -3,11 +3,11 @@
     <addons>
         <addon>
             <id>1</id>
-            <name>Radon-4.7</name>
+            <name>201705291000</name>
             <description>Custom_kernel</description>
             <published-at>20170520</published-at>
             <size>11751702</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/1modAPP/Radon-V4.7-Kenzo-Cm-Ng.zip</download-link>
+            <download-link>https://github.com/nubia-dev-msm8226/OTAUpdates/release/download/29.05.2017/OTA-MK71.2-NX404H-201705281221-201705291000-NIGHTLY.zip</download-link>
         </addon>         
     </addons>
      <addons>
